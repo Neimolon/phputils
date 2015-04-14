@@ -11,8 +11,4 @@ function validar_dni($dni){
 	}
 }
 
-
-	
-
-
 ?>
