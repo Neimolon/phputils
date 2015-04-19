@@ -33,31 +33,7 @@ $urls = array(
 		"/users/update/id/8",
 		"/users/kaka",
 		"/users/update/id",
-		"/users/update/id/8/param",
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		null"/users/update/kaka/kaka");null
+		"/users/update/id/8/param","/users/update/kaka/kaka");
 
 function parseUrl($url) 
 {
