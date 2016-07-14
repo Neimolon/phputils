@@ -5,5 +5,6 @@ function strpos_arr($haystack, $needle) {
 	foreach($needle as $what) {
 		if(($pos = strpos($haystack, $what))!==false) return $pos;
 	}
+	
 	return false;
 }
